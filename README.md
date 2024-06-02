@@ -33,9 +33,10 @@ https://www.youtube.com/watch?v=Fjp2TdlTTIU
 ```link
 https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/live.m3u8
 ```
+* **link m3u8 ini telah terisi,boleh digunakan terus di iptv player.**
 
 # PERHATIAN!!
 
 * **Tidak semua link youtube dapat digunakan disini.**
 * **Tidak perlu di ISU kan jika link m3u8 tersebut tidak dapat digunakan.Cuma cuba id youtube yang lain.**
-* **Link youtube mesti diawali dgn** *https:// www.youtube.com/watch?v=* **diikuti dengan id**
+* **Link youtube mesti diawali dgn** `https:// www.youtube.com/watch?v=` **diikuti dengan id.**
