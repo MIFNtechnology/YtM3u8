@@ -4,7 +4,7 @@
 spongebob | kids | https://github.com/MIFNtechnology/siaranMy/raw/main/logo/sponge.png | Nickelodeon.yt
 https://www.youtube.com/watch?v=XtLxIfii-B4
 phineas&ferb | kids | https://github.com/MIFNtechnology/siaranMy/raw/main/logo/PandS.png | DisneyXd.yt
-https://www.youtube.com/live/watch?v=Fjp2TdlTTIU
+https://www.youtube.com/watch?v=Fjp2TdlTTIU
 CartoonNetwork | kids | https://github.com/MIFNtechnology/siaranMy/raw/main/logo/CN.png | CN.yt
 https://www.youtube.com/watch?v=cOLQACygN5A
 HotFm | radio | https://github.com/MIFNtechnology/siaranMy/raw/main/logo/HotFm.png | HotFm.yt
@@ -13,3 +13,10 @@ Didi&Kawan2 | kids |  | DnF.yt
 https://www.youtube.com/watch?v=Tx7QX9gRgxE
 OnePunchMan | kids |  | OpM.yt
 https://www.youtube.com/watch?v=LDU0e7NqHDE
+Sinar | radio | https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Sinar.png | Sinar.yt
+https://www.youtube.com/watch?v=KA1icM80KtI
+SuriaFm | radio | https://github.com/MIFNtechnology/siaranMy/raw/main/logo/SuriaFm.png | SuriaFm.yt
+https://www.youtube.com/watch?v=yUMmg10P0BM
+MolekFm | radio | https://github.com/MIFNtechnology/siaranMy/raw/main/logo/MolekFm.png | MolekFm.yt
+https://www.youtube.com/watch?v=_j2ZMsM2uMk
+
