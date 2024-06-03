@@ -14,7 +14,7 @@ def grab(url):
         #response = requests.get(url).text
         if '.m3u8' not in response:
             if windows:
-                print('https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/main/assets/')
+                print('https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/main/assets/moose_na.m3u')
                 return
             #os.system(f'wget {url} -O temp.txt')
             os.system(f'curl "{url}" > temp.txt')
