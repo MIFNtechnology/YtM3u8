@@ -13,9 +13,9 @@ Didi&Kawan2 | kids |  | DnF.yt
 https://www.youtube.com/watch?v=Tx7QX9gRgxE
 OnePunchMan | kids |  | OpM.yt
 https://www.youtube.com/watch?v=LDU0e7NqHDE
-Sinar | radio | https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Sinar.png | Sinar.yt
-https://www.youtube.com/watch?v=KA1icM80KtI
-SuriaFm | radio | https://github.com/MIFNtechnology/siaranMy/raw/main/logo/SuriaFm.png | SuriaFm.yt
+8Fm | radio | https://github.com/MIFNtechnology/siaranMy/raw/main/logo/8fm.png | 8fm.yt
+https://www.youtube.com/watch?v=o1ipHJUfFTM
+Suria | radio | https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Suria.png | Suria.yt
 https://www.youtube.com/watch?v=yUMmg10P0BM
 MolekFm | radio | https://github.com/MIFNtechnology/siaranMy/raw/main/logo/MolekFm.png | MolekFm.yt
 https://www.youtube.com/watch?v=_j2ZMsM2uMk
