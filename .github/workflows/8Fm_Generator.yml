@@ -40,7 +40,7 @@ jobs:
         run: |
           pwd
           chmod +x 8Fm.sh
-          ./Sh/8Fm.sh
+          ./8Fm.sh
 
       - name: git add
         run: |
