@@ -4,6 +4,8 @@
 
 [![8Fm generator](https://github.com/MIFNtechnology/YtM3u8/actions/workflows/8Fm_Generator.yml/badge.svg)](https://github.com/MIFNtechnology/YtM3u8/actions/workflows/8Fm_Generator.yml)
 
+[![HotFm generator](https://github.com/MIFNtechnology/YtM3u8/actions/workflows/HotFm_Generator.yml/badge.svg)](https://github.com/MIFNtechnology/YtM3u8/actions/workflows/HotFm_Generator.yml)
+
 # YtM3u8
 
 * **Dari Youtube Live Ke M3u8 IPTV**.
