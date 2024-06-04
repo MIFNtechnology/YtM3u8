@@ -1,10 +1,4 @@
-[![M3U generator](https://github.com/MIFNtechnology/YtM3u8/actions/workflows/m3u_Generator.yml/badge.svg)](https://github.com/MIFNtechnology/YtM3u8/actions/workflows/m3u_Generator.yml)
-
-[![BERNAMA generator](https://github.com/MIFNtechnology/YtM3u8/actions/workflows/bernama_Generator.yml/badge.svg)](https://github.com/MIFNtechnology/YtM3u8/actions/workflows/bernama_Generator.yml)
-
-[![8Fm generator](https://github.com/MIFNtechnology/YtM3u8/actions/workflows/8Fm_Generator.yml/badge.svg)](https://github.com/MIFNtechnology/YtM3u8/actions/workflows/8Fm_Generator.yml)
-
-[![HotFm generator](https://github.com/MIFNtechnology/YtM3u8/actions/workflows/HotFm_Generator.yml/badge.svg)](https://github.com/MIFNtechnology/YtM3u8/actions/workflows/HotFm_Generator.yml)
+[![M3U generator](https://github.com/MIFNtechnology/YtM3u8/actions/workflows/m3u_Generator.yml/badge.svg)](https://github.com/MIFNtechnology/YtM3u8/actions/workflows/m3u_Generator.yml)[![BERNAMA generator](https://github.com/MIFNtechnology/YtM3u8/actions/workflows/bernama_Generator.yml/badge.svg)](https://github.com/MIFNtechnology/YtM3u8/actions/workflows/bernama_Generator.yml)[![8Fm generator](https://github.com/MIFNtechnology/YtM3u8/actions/workflows/8Fm_Generator.yml/badge.svg)](https://github.com/MIFNtechnology/YtM3u8/actions/workflows/8Fm_Generator.yml)[![HotFm generator](https://github.com/MIFNtechnology/YtM3u8/actions/workflows/HotFm_Generator.yml/badge.svg)](https://github.com/MIFNtechnology/YtM3u8/actions/workflows/HotFm_Generator.yml)[![HotFm generator](https://github.com/MIFNtechnology/YtM3u8/actions/workflows/Suria_Generator.yml/badge.svg)](https://github.com/MIFNtechnology/YtM3u8/actions/workflows/Suria_Generator.yml)[![HotFm generator](https://github.com/MIFNtechnology/YtM3u8/actions/workflows/MolekFm_Generator.yml/badge.svg)](https://github.com/MIFNtechnology/YtM3u8/actions/workflows/MolekFm_Generator.yml)
 
 # YtM3u8
 
