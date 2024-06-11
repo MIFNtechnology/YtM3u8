@@ -2,4 +2,4 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 Bernama Tv | siaranMy | https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Bernama.png | BernamaTv.yt
-https://www.youtube.com/watch?v=0Al0RA2_0RQ
+https://www.youtube.com/watch?v=UCcZg..
