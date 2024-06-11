@@ -2,4 +2,4 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 Suria Fm | radio | https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Suria.png | SuriaFm.yt
-https://www.youtube.com/watch?v=dxYe2PnbZ8g
+https://www.youtube.com/channel/UCjDM2C3nXPGD_cGDyrrBT6w/live
