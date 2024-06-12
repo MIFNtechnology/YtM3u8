@@ -2,7 +2,7 @@
 [![BERNAMA generator](https://github.com/MIFNtechnology/YtM3u8/actions/workflows/bernama_Generator.yml/badge.svg)](https://github.com/MIFNtechnology/YtM3u8/actions/workflows/bernama_Generator.yml)
 [![8Fm generator](https://github.com/MIFNtechnology/YtM3u8/actions/workflows/8Fm_Generator.yml/badge.svg)](https://github.com/MIFNtechnology/YtM3u8/actions/workflows/8Fm_Generator.yml)
 [![HotFm generator](https://github.com/MIFNtechnology/YtM3u8/actions/workflows/HotFm_Generator.yml/badge.svg)](https://github.com/MIFNtechnology/YtM3u8/actions/workflows/HotFm_Generator.yml)
-[![Suria generator](https://github.com/MIFNtechnology/YtM3u8/actions/workflows/Suria_Generator.yml/badge.svg?branch=github-private)](https://github.com/MIFNtechnology/YtM3u8/actions/workflows/Suria_Generator.yml)
+[![SuriaFm generator](https://github.com/MIFNtechnology/YtM3u8/actions/workflows/SuriaFm_Generator.yml/badge.svg)](https://github.com/MIFNtechnology/YtM3u8/actions/workflows/SuriaFm_Generator.yml)
 [![MolekFm generator](https://github.com/MIFNtechnology/YtM3u8/actions/workflows/MolekFm_Generator.yml/badge.svg)](https://github.com/MIFNtechnology/YtM3u8/actions/workflows/MolekFm_Generator.yml)
 [![Kool101 generator](https://github.com/MIFNtechnology/YtM3u8/actions/workflows/Kool101_Generator.yml/badge.svg)](https://github.com/MIFNtechnology/YtM3u8/actions/workflows/Kool101_Generator.yml)
 
