@@ -39,8 +39,8 @@ jobs:
       - name: .github-private
         run: |
           pwd
-          chmod +x HotFm.sh
-          ./HotFm.sh
+          chmod +x HotFm/autorun.sh
+          ./HotFm/autorun.sh
 
       - name: git add
         run: |
