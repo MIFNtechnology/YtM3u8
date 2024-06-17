@@ -39,8 +39,8 @@ jobs:
       - name: .github-private
         run: |
           pwd
-          chmod +x SuriaFm.sh
-          ./SuriaFm.sh
+          chmod +x SuriaFm/autorun.sh
+          ./SuriaFm/autorun.sh
 
       - name: git add
         run: |
