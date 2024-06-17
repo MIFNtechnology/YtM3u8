@@ -39,7 +39,7 @@ jobs:
       - name: .github-private
         run: |
           pwd
-          chmod +x /8Fm/autorun.sh
+          chmod +x 8Fm/autorun.sh
           ./8Fm/autorun.sh
 
       - name: git add
