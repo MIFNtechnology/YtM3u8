@@ -39,8 +39,8 @@ jobs:
       - name: .github-private
         run: |
           pwd
-          chmod +x 8Fm.sh
-          ./8Fm.sh
+          chmod +x 8Fm/8Fm.sh
+          .8Fm/8Fm.sh
 
       - name: git add
         run: |
