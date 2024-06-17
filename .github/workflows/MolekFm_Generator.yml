@@ -39,8 +39,8 @@ jobs:
       - name: .github-private
         run: |
           pwd
-          chmod +x MolekFm.sh
-          ./MolekFm.sh
+          chmod +x MolekFm/autorun.sh
+          ./MolekFm/autorun.sh
 
       - name: git add
         run: |
