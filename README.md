@@ -183,8 +183,8 @@ if 'temp.txt' in os.listdir():
 
 name: `your_folder` generator
 
-          chmod +x `your_folder`/autorun.sh
-          ./`your_folder`/autorun.sh
+chmod +x `your_folder`/autorun.sh & 
+./`your_folder`/autorun.sh
           
 ```
 # This is a basic workflow to help you get started with Actions
