@@ -1,17 +1,6 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-spongebob | kids | https://github.com/MIFNtechnology/siaranMy/raw/main/logo/sponge.png | Nickelodeon.yt
+spongebob | kids |  | Nickelodeon.yt
 https://www.youtube.com/watch?v=jW4IFY1JPU8
 
-phineas&ferb | kids | https://github.com/MIFNtechnology/siaranMy/raw/main/logo/PandS.png | DisneyXd.yt
-https://www.youtube.com/embed/Fjp2TdlTTIU?si=S_2duVmcFWNFrydj
-
-CartoonNetwork | kids | https://github.com/MIFNtechnology/siaranMy/raw/main/logo/CN.png | CN.yt
-https://www.youtube.com/watch?v=cOLQACygN5A
-
-Didi&Kawan2 | kids |  | DnF.yt
-https://www.youtube.com/watch?v=Tx7QX9gRgxE
-
-DianeyJunior | kids |  | DisneyJ.yt
-https://www.youtube.com/watch?v=OjlaUkllTss
