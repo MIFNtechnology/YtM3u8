@@ -5,7 +5,7 @@ spongebob | kids | https://github.com/MIFNtechnology/siaranMy/raw/main/logo/spon
 https://www.youtube.com/watch?v=jW4IFY1JPU8
 
 phineas&ferb | kids | https://github.com/MIFNtechnology/siaranMy/raw/main/logo/PandS.png | DisneyXd.yt
-https://www.youtube.com/watch?v=Fjp2TdlTTIU
+https://www.youtube.com/embed/Fjp2TdlTTIU?si=S_2duVmcFWNFrydj
 
 CartoonNetwork | kids | https://github.com/MIFNtechnology/siaranMy/raw/main/logo/CN.png | CN.yt
 https://www.youtube.com/watch?v=cOLQACygN5A
