@@ -48,7 +48,7 @@ https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/live.m3u8
 ```
 https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/bernama/live.m3u8
 ```
-* HOT FM [![HotFm generator](https://github.com/MIFNtechnology/YtM3u8/actions/workflows/HotFm_Generator.yml/badge.svg)](https://github.com/MIFNtechnology/YtM3u8/actions/workflows/HotFm_Generator.yml)
+* HOT FM [![HotFm generator](https://github.com/MIFNtechnology/YtM3u8/actions/workflows/HotFm_Generator.yml/badge.svg?branch=github-private)](https://github.com/MIFNtechnology/YtM3u8/actions/workflows/HotFm_Generator.yml)
 ```
 https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/HotFm/live.m3u8
 ```
