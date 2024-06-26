@@ -2,4 +2,4 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 HotFm | radio | https://github.com/MIFNtechnology/siaranMy/raw/main/logo/HotFm.png | HotFm.yt
-https://www.youtube.com/watch?v=K9Rbcmp2Svk
+https://www.youtube.com/channel/UCFV_yPFxPbbmrYJ9J6zJglA/live
