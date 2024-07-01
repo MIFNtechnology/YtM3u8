@@ -4,7 +4,7 @@
 
 * **Dari Youtube Live Ke M3u8 IPTV**.
 * **Tidak semua link youtube boleh digunakan.**
-* **Kemaskini automatik setiap setiap 3jam**.
+* **Kemaskini automatik setiap setiap 5-6jam**.
 * **Link secara berkumpulan dan berasingan**.
 
 ## CARA GUNA BERKUMPULAN
