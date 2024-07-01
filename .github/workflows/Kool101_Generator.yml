@@ -5,7 +5,7 @@ name: Kool101 generator
 # Controls when the action will run. 
 on:
   schedule:
-    - cron: '0 0/5 * * *'
+    - cron: '0 0/6 * * *'
 
   pull_request:
     branches:
