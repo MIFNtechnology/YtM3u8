@@ -1,1 +1,5 @@
+~~ DO NOT EDIT THE FIRST 2 LINES
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
+Disney Jr | siaranMy | https://github.com/MIFNtechnology/siaranMy/raw/main/logo/DisneyJr.png | DisneyJr.yt
+https://www.youtube.com/channel/UCNcdbMyA59zE-Vk668bKWOg/live
