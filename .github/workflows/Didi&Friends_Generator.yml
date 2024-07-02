@@ -1,6 +1,6 @@
 # This is a basic workflow to help you get started with Actions
 
-name: Didi & Friends generator
+name: DidiDanFriends generator
 
 # Controls when the action will run. 
 on:
@@ -39,8 +39,8 @@ jobs:
       - name: .github-private
         run: |
           pwd
-          chmod +x Didi&Friends/autorun.sh
-          ./Didi&Friends/autorun.sh
+          chmod +x DidiDanFriends/autorun.sh
+          ./DidiDanFriends/autorun.sh
 
       - name: git add
         run: |
