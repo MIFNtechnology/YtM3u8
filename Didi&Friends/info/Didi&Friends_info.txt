@@ -1,1 +1,5 @@
+~~ DO NOT EDIT THE FIRST 2 LINES
+~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
+Didi & Friends | siaranMy | https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Didi&Friends.png | Didi&Friends.yt
+https://www.youtube.com/channel/UCr9QW8w8CvVAe3MSWZCAn-Q/live
