@@ -9,18 +9,18 @@ if 'win' in sys.platform:
     windows = True
 
 def grab(url):
-    response = requests.get(url, timeout=15).text
+    response = s.get(url, timeout=15).text
     if '.m3u8' not in response:
-        #response = requests.get(url).text
+        response = requests.get(url).text
         if '.m3u8' not in response:
             if windows:
-                print('https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/assets/moose_na.m3u')
+                print('https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/assets/info.m3u8')
                 return
             #os.system(f'wget {url} -O temp.txt')
             os.system(f'curl "{url}" > temp.txt')
             response = ''.join(open('temp.txt').readlines())
             if '.m3u8' not in response:
-                print('https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/assets/moose_na.m3u')
+                print('https://raw.githubusercontent.com/MIFNtechnology/YtM3u8/github-private/assets/info.m3u8')
                 return
     end = response.find('.m3u8') + 5
     tuner = 100
@@ -32,9 +32,16 @@ def grab(url):
             break
         else:
             tuner += 5
-    print(f"{link[start : end]}")
+    streams = s.get(link[start:end]).text.split('#EXT')
+    hd = streams[-1].strip()
+    st = hd.find('http')
+    print(hd[st:].strip())
+    #print(f"{link[start : end]}")
 
-#s = requests.Session()
+print('#EXTM3U')
+print('#EXT-X-VERSION:3')
+print('#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000')
+s = requests.Session()
 with open('../info/Spongebob_info.txt') as f:
     for line in f:
         line = line.strip()
@@ -46,12 +53,9 @@ with open('../info/Spongebob_info.txt') as f:
             grp_title = line[1].strip().title()
             tvg_logo = line[2].strip()
             tvg_id = line[3].strip()
-            print('#EXTM3U')
-            print('#EXT-X-VERSION:3')
-            print('#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000')
         else:
             grab(line)
-            
+
 if 'temp.txt' in os.listdir():
     os.system('rm temp.txt')
     os.system('rm watch*')
