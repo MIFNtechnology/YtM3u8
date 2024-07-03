@@ -34,11 +34,8 @@ def grab(url):
             tuner += 5
     print(f"{link[start : end]}")
 
-print('#EXTM3U')
-print('#EXT-X-VERSION:3')
-print('#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000')
-s = requests.Session()
-with open('../info/Spongebob_info.txt') as f:
+#s = requests.Session()
+with open('../channel_info.txt') as f:
     for line in f:
         line = line.strip()
         if not line or line.startswith('~~'):
@@ -49,6 +46,9 @@ with open('../info/Spongebob_info.txt') as f:
             grp_title = line[1].strip().title()
             tvg_logo = line[2].strip()
             tvg_id = line[3].strip()
+            print('#EXTM3U')
+            print('#EXT-X-VERSION:3')
+            print('#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=2560000')
         else:
             grab(line)
             
