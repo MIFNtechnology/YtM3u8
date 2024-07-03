@@ -35,7 +35,7 @@ def grab(url):
     print(f"{link[start : end]}")
 
 #s = requests.Session()
-with open('../channel_info.txt') as f:
+with open('../info/Spongebob_info.txt') as f:
     for line in f:
         line = line.strip()
         if not line or line.startswith('~~'):
