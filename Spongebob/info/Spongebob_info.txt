@@ -2,5 +2,5 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 Nikelodean Bahasa | siaranMy | https://github.com/MIFNtechnology/siaranMy/raw/main/logo/Nikelodeon.png | Nikelodeon.yt
-https://www.youtube.com/watch?v=PV5iAiSzQG4
+https://www.youtube.com/watch?v=PV5iAiSzQG4|User-Agent: Mozilla/5.0 (Linux; Android 10; CPH1819 Build/QP1A.190711.020; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/126.0.6478.134 Mobile Safari/537.36
 
