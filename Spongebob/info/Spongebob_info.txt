@@ -1,6 +1,6 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-Nicktoon | kids |  | Nicktoon.yt
-https://www.youtube.com/channel/UC74bcC7aGRNz4KoRpJsJNEw/live 
+Nickelodeon Bahasa | kids |  | Nickelodeon.yt
+https://www.youtube.com/channel/UCTJDdO9klWGpTekswnXreGQ/live 
 
