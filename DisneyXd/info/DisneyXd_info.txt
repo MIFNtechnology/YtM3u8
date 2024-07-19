@@ -2,4 +2,4 @@
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
 Disney Xd | kids |   | DisneyXd.yt
-https://www.youtube.com/watch?v=yNf1nnQrfi4&list=PLg6R6yXKSLYDR_VUUcVIxkjNd_ozPFwAU&index=1
+https://youtu.be/yNf1nnQrfi4
