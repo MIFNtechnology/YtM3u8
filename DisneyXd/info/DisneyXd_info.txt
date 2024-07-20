@@ -1,5 +1,5 @@
 ~~ DO NOT EDIT THE FIRST 2 LINES
 ~~ FORMAT: <channel name> | <group name> | <logo> | <tvg-id>
 
-CartoonNetworkAsia | kids |   | CartoonNetworkAsia.yt
-https://www.youtube.com/video/cOLQACygN5A/live
+DisneyXD | kids |   | DisneyXd.yt
+https://www.youtube.com/watch?v=yNf1nnQrfi4
